@@ -1,0 +1,124 @@
+Please choose Add receipt(1)	Search receipt(2)	-1 to exit: 
+2
+Search Receipt: 
+Please input Taxi ID: 
+A
+Date:
+Year£º 
+2010
+Month£º 
+1
+Day£º 
+2
+Date of fueling(YY/MM/DD): 2010/1/2
+The receipt number: A2010120
+The cost: 1.2
+Amount of gas purchased: 20.0
+Distance travelled: 200.0Date of fueling(YY/MM/DD): 2010/1/2
+The receipt number: A2010126
+The cost: 1.9
+Amount of gas purchased: 35.0
+Distance travelled: 330.0Date of fueling(YY/MM/DD): 2010/1/2
+The receipt number: A2010127
+The cost: 1.8
+Amount of gas purchased: 45.0
+Distance travelled: 410.0Please input the Receipt number if you want to delete it or enter -1 to quite: 
+A2010127
+Delete successfully.
+
+Please choose Add receipt(1)	Search receipt(2)	-1 to exit: 
+2
+Search Receipt: 
+Please input Taxi ID: 
+A
+Date:
+Year£º 
+2010
+Month£º 
+1
+Day£º 
+2
+Date of fueling(YY/MM/DD): 2010/1/2
+The receipt number: A2010120
+The cost: 1.2
+Amount of gas purchased: 20.0
+Distance travelled: 200.0Date of fueling(YY/MM/DD): 2010/1/2
+The receipt number: A2010126
+The cost: 1.9
+Amount of gas purchased: 35.0
+Distance travelled: 330.0Please input the Receipt number if you want to delete it or enter -1 to quite: 
+1
+Invaild receipt number, unable to delete.
+
+Please choose Add receipt(1)	Search receipt(2)	-1 to exit: 
+1
+Receipt:
+Taxi ID: 
+A
+Date:
+Year£º 
+2010
+Month£º 
+5
+Day£º 
+1
+Gas price£º 
+1.8
+Gas amount£º 
+80
+distance£º 
+900
+Add successfully.
+
+Please choose Add receipt(1)	Search receipt(2)	-1 to exit: 
+2
+Search Receipt: 
+Please input Taxi ID: 
+2010
+Date:
+Year£º 
+5
+Month£º 
+1
+Day£º 
+1
+No result. Please check if your Taxi ID or date is wrong.
+
+Please choose Add receipt(1)	Search receipt(2)	-1 to exit: 
+2
+Search Receipt: 
+Please input Taxi ID: 
+A
+Date:
+Year£º 
+2010
+Month£º 
+5
+Day£º 
+1
+Date of fueling(YY/MM/DD): 2010/5/1
+The receipt number: A2010517
+The cost: 1.8
+Amount of gas purchased: 80.0
+Distance travelled: 900.0Please input the Receipt number if you want to delete it or enter -1 to quite: 
+A2010517
+Delete successfully.
+
+Please choose Add receipt(1)	Search receipt(2)	-1 to exit: 
+2
+Search Receipt: 
+Please input Taxi ID: 
+A
+Date:
+Year£º 
+2010
+Month£º 
+5
+Day£º 
+1
+No result. Please check if your Taxi ID or date is wrong.
+
+Please choose Add receipt(1)	Search receipt(2)	-1 to exit: 
+-1
+
+Process finished with exit code 0
