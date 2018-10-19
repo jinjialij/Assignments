@@ -1,0 +1,300 @@
+Enter the filename to read from: F:\CSCI2110\lab4\src\sepexpenses.txt
+September Expenses
+Max expense: $360.01
+Min expense: $4.51
+Average expense: $76.635
+The amount spent on groceries: $95.13
+Total expense: $919.62
+
+
+Enter the filename to read from: F:\CSCI2110\lab4\src\studentrecords.txt
+201820 Kate West kwest@email.com Music Arts 
+201821 Julie McLain jmclain@email.com Finance Business 
+201822 Tom Elrich telrich@email.com Sculpture Arts 
+201823 Mark Smith msmith@email.com Biology Science 
+201824 Ian Foster ifoster@email.com Physics Science 
+201825 Zhilei Wang zwang@email.com Finance Business 
+201826 Matt Knight mknight@email.com Music Arts 
+201827 John Smith jsmith@email.com CS ComputerScience 
+201828 Craig Cambell ccambell@email.com Linguistics Humanities 
+201829 Mike Williams mwilliams@email.com Music Arts 
+201830 Jane Reid jreid@email.com Physics Science 
+
+What would you like to do? (add, delete, display, search, quit): 
+add
+Enter the record: 
+201831 John Doe jdoe@email.com Chemistry Science
+Record added.
+What would you like to do? (add, delete, display, search, quit): 
+delete
+Enter the ID number to be delete
+201828
+201828 deleted.
+What would you like to do? (add, delete, display, search, quit): 
+display
+Display what (major, faculty, student(last name) ): 
+major
+Enter the major: 
+Music
+201829 Mike Williams mwilliams@email.com Music Arts 
+201826 Matt Knight mknight@email.com Music Arts 
+201820 Kate West kwest@email.com Music Arts 
+What would you like to do? (add, delete, display, search, quit): 
+display
+Display what (major, faculty, student(last name) ): 
+faculty
+Enter the faculty: 
+Science
+201831 John Doe jdoe@email.com Chemistry Science 
+201830 Jane Reid jreid@email.com Physics Science 
+201824 Ian Foster ifoster@email.com Physics Science 
+201823 Mark Smith msmith@email.com Biology Science 
+What would you like to do? (add, delete, display, search, quit): 
+display
+Display what (major, faculty, student(last name) ): 
+student
+Enter the last name: 
+Williams
+201829 Mike Williams mwilliams@email.com Music Arts 
+What would you like to do? (add, delete, display, search, quit): 
+search
+Enter the student ID number: 
+201827
+201827 John Smith jsmith@email.com CS ComputerScience 
+What would you like to do? (add, delete, display, search, quit): 
+search
+Enter the student ID number: 
+201840
+201840 not found
+What would you like to do? (add, delete, display, search, quit): 
+quit
+Program ended.
+
+
+Enter the filename to read from: F:\CSCI2110\lab4\src\CountriesCapitals.txt
+Country: Zimbabwe 	Capital: Harare-->
+Country: Zambia 	Capital: Lusaka-->
+Country: Yemen 	Capital: Sanaa-->
+Country: Wales 	Capital: Cardiff-->
+Country: Vietnam 	Capital: Hanoi-->
+Country: Venezuela 	Capital: Caracas-->
+Country: Vatican City 	Capital: Vatican City-->
+Country: Vanuatu 	Capital: Port Vila-->
+Country: Uzbekistan 	Capital: Tashkent-->
+Country: Uruguay 	Capital: Montevideo-->
+Country: United States 	Capital: Washington D.C.-->
+Country: United Kingdom 	Capital: London-->
+Country: United Arab Emirates 	Capital: Abu Dhabi-->
+Country: Ukraine 	Capital: Kiev-->
+Country: Uganda 	Capital: Kampala-->
+Country: Tuvalu 	Capital: Vaiaku village-->
+Country: Turkmenistan 	Capital: Ashgabat-->
+Country: Turkey 	Capital: Ankara-->
+Country: Tunisia 	Capital: Tunis-->
+Country: Trinidad and Tobago 	Capital: Port of Spain-->
+Country: Tonga 	Capital: Nuku'alofa-->
+Country: Togo 	Capital: Lome-->
+Country: Thailand 	Capital: Bangkok-->
+Country: Tanzania 	Capital: Dodoma1-->
+Country: Tajikistan 	Capital: Dushanbe-->
+Country: Taiwan 	Capital: Taipei-->
+Country: Syria 	Capital: Damascus-->
+Country: Switzerland 	Capital: Bern-->
+Country: Sweden 	Capital: Stockholm-->
+Country: Swaziland 	Capital: Mbabana-->
+Country: Suriname 	Capital: Paramaribo-->
+Country: Sudan 	Capital: Khartoum-->
+Country: Sri Lanka 	Capital: Colombo-->
+Country: Spain 	Capital: Madrid-->
+Country: South Sudan 	Capital: Juba-->
+Country: South Korea 	Capital: Seoul-->
+Country: South Africa 	Capital: Pretoria-->
+Country: Somalia 	Capital: Mogadishu-->
+Country: Solomon Islands 	Capital: Honiara-->
+Country: Slovenia 	Capital: Ljubljana-->
+Country: Slovakia 	Capital: Bratislava-->
+Country: Singapore 	Capital: Singapore-->
+Country: Sierra Leone 	Capital: Freetown-->
+Country: Seychelles 	Capital: Victoria-->
+Country: Serbia 	Capital: Belgrade-->
+Country: Senegal 	Capital: Dakar-->
+Country: Scotland 	Capital: Edinburgh-->
+Country: Saudi Arabia 	Capital: Riyadh-->
+Country: Sao Tome and Principe 	Capital: Sao Tome-->
+Country: San Marino 	Capital: San Marino-->
+Country: Samoa 	Capital: Apia-->
+Country: Saint Vincent and the Grenadines 	Capital: Kingstown-->
+Country: Saint Lucia 	Capital: Castries-->
+Country: Saint Kitts and Nevis 	Capital: Basseterre-->
+Country: Rwanda 	Capital: Kigali-->
+Country: Russia 	Capital: Moscow-->
+Country: Romania 	Capital: Bucharest-->
+Country: Qatar 	Capital: Doha-->
+Country: Portugal 	Capital: Lisbon-->
+Country: Poland 	Capital: Warsaw-->
+Country: Philippines 	Capital: Manila-->
+Country: Peru 	Capital: Lima-->
+Country: Paraguay 	Capital: Asuncion-->
+Country: Papua New Guinea 	Capital: Port Moresby-->
+Country: Panama 	Capital: Panama City-->
+Country: Palau 	Capital: Melekeok-->
+Country: Pakistan 	Capital: Islamabad-->
+Country: Oman 	Capital: Muscat-->
+Country: Norway 	Capital: Oslo-->
+Country: Northern Ireland 	Capital: Belfast-->
+Country: North Korea 	Capital: Pyongyang-->
+Country: Nigeria 	Capital: Abuja-->
+Country: Niger 	Capital: Niamey-->
+Country: Nicaragua 	Capital: Managua-->
+Country: New Zealand 	Capital: Wellington-->
+Country: Netherlands 	Capital: Amsterdam-->
+Country: Nepal 	Capital: Kathmandu-->
+Country: Nauru 	Capital: No official capital-->
+Country: Namibia 	Capital: Windhoek-->
+Country: Myanmar (Burma) 	Capital: Rangoon (Yangon)-->
+Country: Mozambique 	Capital: Maputo-->
+Country: Morocco 	Capital: Rabat-->
+Country: Montenegro 	Capital: Podgorica-->
+Country: Mongolia 	Capital: Ulaanbaatar-->
+Country: Monaco 	Capital: Monaco-->
+Country: Moldova 	Capital: Chisinau-->
+Country: Mexico 	Capital: Mexico City-->
+Country: Mauritius 	Capital: Port Louis-->
+Country: Mauritania 	Capital: Nouakchott-->
+Country: Marshall Islands 	Capital: Majuro-->
+Country: Malta 	Capital: Valletta-->
+Country: Mali 	Capital: Bamako-->
+Country: Maldives 	Capital: Male-->
+Country: Malaysia 	Capital: Kuala Lumpur-->
+Country: Malawi 	Capital: Lilongwe-->
+Country: Madagascar 	Capital: Antananarivo-->
+Country: Macedonia 	Capital: Skopje-->
+Country: Luxembourg 	Capital: Luxembourg-->
+Country: Lithuania 	Capital: Vilnius-->
+Country: Liechtenstein 	Capital: Vaduz-->
+Country: Libya 	Capital: Tripoli-->
+Country: Liberia 	Capital: Monrovia-->
+Country: Lesotho 	Capital: Maseru-->
+Country: Lebanon 	Capital: Beirut-->
+Country: Latvia 	Capital: Riga-->
+Country: Laos 	Capital: Vientiane-->
+Country: Kyrgyzstan 	Capital: Bishkek-->
+Country: Kuwait 	Capital: Kuwait City-->
+Country: Kosovo 	Capital: Pristina-->
+Country: Kiribati 	Capital: Tarawa Atoll-->
+Country: Kenya 	Capital: Nairobi-->
+Country: Kazakhstan 	Capital: Astana-->
+Country: Jordan 	Capital: Amman-->
+Country: Japan 	Capital: Tokyo-->
+Country: Jamaica 	Capital: Kingston-->
+Country: Italy 	Capital: Rome-->
+Country: Israel 	Capital: Tel Aviv2-->
+Country: Ireland 	Capital: Dublin-->
+Country: Iraq 	Capital: Baghdad-->
+Country: Iran 	Capital: Tehran-->
+Country: Indonesia 	Capital: Jakarta-->
+Country: India 	Capital: New Delhi-->
+Country: Iceland 	Capital: Reykjavik-->
+Country: Hungary 	Capital: Budapest-->
+Country: Honduras 	Capital: Tegucigalpa-->
+Country: Haiti 	Capital: Port au Prince-->
+Country: Guyana 	Capital: Georgetown-->
+Country: Guinea-Bissau 	Capital: Bissau-->
+Country: Guinea 	Capital: Conakry-->
+Country: Guatemala 	Capital: Guatemala City-->
+Country: Grenada 	Capital: Saint George's-->
+Country: Greece 	Capital: Athens-->
+Country: Ghana 	Capital: Accra-->
+Country: Germany 	Capital: Berlin-->
+Country: Georgia 	Capital: Tbilisi-->
+Country: Gambia 	Capital: Banjul-->
+Country: Gabon 	Capital: Libreville-->
+Country: French Guiana 	Capital: Cayenne-->
+Country: France 	Capital: Paris-->
+Country: Finland 	Capital: Helsinki-->
+Country: Fiji 	Capital: Suva-->
+Country: Federated States of Micronesia 	Capital: Palikir-->
+Country: Ethiopia 	Capital: Addis Ababa-->
+Country: Estonia 	Capital: Tallinn-->
+Country: Eritrea 	Capital: Asmara-->
+Country: Equatorial Guinea 	Capital: Malabo-->
+Country: England 	Capital: London-->
+Country: El Salvador 	Capital: San Salvador-->
+Country: Egypt 	Capital: Cairo-->
+Country: Ecuador 	Capital: Quito-->
+Country: East Timor 	Capital: Dili-->
+Country: Dominican Republic 	Capital: Santo Domingo-->
+Country: Dominica 	Capital: Roseau-->
+Country: Djibouti 	Capital: Djibouti-->
+Country: Denmark 	Capital: Copenhagen-->
+Country: Czech Republic 	Capital: Prague-->
+Country: Cyprus 	Capital: Nicosia-->
+Country: Cuba 	Capital: Havana-->
+Country: Croatia 	Capital: Zagreb-->
+Country: Cote d'Ivoire 	Capital: Yamoussoukro-->
+Country: Costa Rica 	Capital: San Jose-->
+Country: Congo, Republic of the 	Capital: Brazzaville-->
+Country: Congo, Democratic Republic of the 	Capital: Kinshasa-->
+Country: Comoros 	Capital: Moroni-->
+Country: Colombia 	Capital: Bogota-->
+Country: China 	Capital: Beijing-->
+Country: Chile 	Capital: Santiago-->
+Country: Chad 	Capital: N'Djamena-->
+Country: Central African Republic 	Capital: Bangui-->
+Country: Cape Verde 	Capital: Praia-->
+Country: Canada 	Capital: Ottawa-->
+Country: Cameroon 	Capital: Yaounde-->
+Country: Cambodia 	Capital: Phnom Penh-->
+Country: Burundi 	Capital: Bujumbura-->
+Country: Burkina Faso 	Capital: Ouagadougou-->
+Country: Bulgaria 	Capital: Sofia-->
+Country: Brunei 	Capital: Bandar Seri Begawan-->
+Country: Brazil 	Capital: Brasilia-->
+Country: Botswana 	Capital: Gaborone-->
+Country: Bosnia and Herzegovina 	Capital: Sarajevo-->
+Country: Bolivia 	Capital: La Paz-->
+Country: Bhutan 	Capital: Thimphu-->
+Country: Benin 	Capital: Porto Novo-->
+Country: Belize 	Capital: Belmopan-->
+Country: Belgium 	Capital: Brussels-->
+Country: Belarus 	Capital: Minsk-->
+Country: Barbados 	Capital: Bridgetown-->
+Country: Bangladesh 	Capital: Dhaka-->
+Country: Bahrain 	Capital: Manama-->
+Country: Bahamas 	Capital: Nassau-->
+Country: Azerbaijan 	Capital: Baku-->
+Country: Austria 	Capital: Vienna-->
+Country: Australia 	Capital: Canberra-->
+Country: Armenia 	Capital: Yerevan-->
+Country: Argentina 	Capital: Buenos Aires-->
+Country: Antigua and Barbuda 	Capital: Saint John's-->
+Country: Angola 	Capital: Luanda-->
+Country: Andorra 	Capital: Andorra la Vella-->
+Country: Algeria 	Capital: Algiers-->
+Country: Albania 	Capital: Tirana-->
+Country: Afghanistan 	Capital: Kabul-->
+
+
+Welcome to the Country-Capital Quiz
+Play?yes
+What country has Bishkek as its capital ?
+Kyrgyzstan
+
+Correct! Play?
+yes
+What country has Helsinki as its capital ?
+Finland
+
+Correct! Play?
+yes
+What country has Abu Dhabi as its capital ?
+Berlin
+
+Incorrect.
+The correct answer is United Arab Emirates
+ Play?
+no
+
+Game over.
+Game Stats:
+Questions played: 3.0;  Correct answers: 2.0;  Score: 66.67 %
