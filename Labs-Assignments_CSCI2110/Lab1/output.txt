@@ -1,0 +1,54 @@
+Exercise1 output:
+
+IS point(11,6) contained in Rectangle: [xpos= 10.0,ypos= 5.0], width: 3.0,height: 2.0 ?	true
+Does point(11,6) touch Rectangle: [xpos= 10.0,ypos= 5.0], width: 3.0,height: 2.0 ?	false
+
+IS point(13,6) contained in Rectangle: [xpos= 10.0,ypos= 5.0], width: 3.0,height: 2.0 ?	false
+Does point(13,6) touch Rectangle: [xpos= 10.0,ypos= 5.0], width: 3.0,height: 2.0 ?	true
+
+Is Rectangle Rectangle: [xpos= 11.0,ypos= 6.0], width: 0.5,height: 0.5 contained in Rectangle: [xpos= 10.0,ypos= 5.0], width: 3.0,height: 2.0 ?	true
+Does Rectangle Rectangle: [xpos= 11.0,ypos= 6.0], width: 0.5,height: 0.5 touches Rectangle: [xpos= 10.0,ypos= 5.0], width: 3.0,height: 2.0 ?	false
+
+Is Rectangle Rectangle: [xpos= 11.0,ypos= 6.0], width: 1.0,height: 1.0 contained in Rectangle: [xpos= 10.0,ypos= 5.0], width: 3.0,height: 2.0 ?	false
+Does Rectangle Rectangle: [xpos= 11.0,ypos= 6.0], width: 1.0,height: 1.0 touches Rectangle: [xpos= 10.0,ypos= 5.0], width: 3.0,height: 2.0 ?	true
+
+Is Rectangle Rectangle: [xpos= 13.0,ypos= 7.0], width: 3.0,height: 6.0 contained in Rectangle: [xpos= 10.0,ypos= 5.0], width: 3.0,height: 2.0 ?	false
+Does Rectangle Rectangle: [xpos= 13.0,ypos= 7.0], width: 3.0,height: 6.0 touches Rectangle: [xpos= 10.0,ypos= 5.0], width: 3.0,height: 2.0 ?	true
+
+Is Rectangle Rectangle: [xpos= 13.0,ypos= 5.5], width: 5.0,height: 1.5 contained in Rectangle: [xpos= 10.0,ypos= 5.0], width: 3.0,height: 2.0 ?	false
+Does Rectangle Rectangle: [xpos= 13.0,ypos= 5.5], width: 5.0,height: 1.5 touches Rectangle: [xpos= 10.0,ypos= 5.0], width: 3.0,height: 2.0 ?	true
+
+Is Rectangle Rectangle: [xpos= 12.5,ypos= 6.5], width: 5.0,height: 6.0 contained in Rectangle: [xpos= 10.0,ypos= 5.0], width: 3.0,height: 2.0 ?	false
+Does Rectangle Rectangle: [xpos= 12.5,ypos= 6.5], width: 5.0,height: 6.0 touches Rectangle: [xpos= 10.0,ypos= 5.0], width: 3.0,height: 2.0 ?	false
+
+Exercise2 outputs
+Circle c: Center: (10.0,5.0),	Radius: 6.0	Area: 113.09733552923255	Circumference: 37.69911184307752
+
+Is point(11.5,6.5) contained in the circle: Center: (10.0,5.0), Radius: 6.0 ?	true
+Does point(11.5,6.5) touches the circle: Center: (10.0,5.0), Radius: 6.0 ?	false
+
+Is point(16,5) contained in the circle: Center: (10.0,5.0), Radius: 6.0 ?	false
+Does point(16,5) touches the circle: Center: (10.0,5.0), Radius: 6.0 ?	true
+
+Is Circle c2(Center: (10.0,5.0), Radius: 3.0) contained in circle c(Center: (10.0,5.0), Radius: 6.0) ?	true
+Does Circle c2(Center: (10.0,5.0), Radius: 3.0) touches circle c(Center: (10.0,5.0), Radius: 6.0) ?	false
+
+Is Circle c3(Center: (14.5,5.0), Radius: 1.5) contained in circle c(Center: (10.0,5.0), Radius: 6.0) ?	false
+Does Circle c3(Center: (14.5,5.0), Radius: 1.5) touches circle c(Center: (10.0,5.0), Radius: 6.0) ?	true
+
+Is Circle c4(Center: (20.0,5.0), Radius: 4.0) contained in circle c(Center: (10.0,5.0), Radius: 6.0) ?	false
+Does Circle c4(Center: (20.0,5.0), Radius: 4.0) touches circle c(Center: (10.0,5.0), Radius: 6.0) ?	true
+
+Is Circle c5(Center: (25.0,5.0), Radius: 4.0) contained in circle c(Center: (10.0,5.0), Radius: 6.0) ?	false
+Does Circle c5(Center: (25.0,5.0), Radius: 4.0) touches circle c(Center: (10.0,5.0), Radius: 6.0) ?	false
+
+
+Exercise3 outputs:
+Enter 5 points: 1 2.5 3 4 5 6 7 8 9 10
+The bounding rectangle's center: (5.0,6.25), width: 8.0, height: 7.5
+
+Enter 5 points: 7 9 3.5 6 1 2 5 3 8 7.5
+The bounding rectangle's center: (4.5,5.5), width: 7.0, height: 7.0
+
+Enter 5 points: 1.5 9 7.5 4.5 6 3 4 1 3 4
+The bounding rectangle's center: (4.5,5.0), width: 6.0, height: 8.0
