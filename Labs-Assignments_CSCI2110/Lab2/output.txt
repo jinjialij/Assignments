@@ -1,0 +1,125 @@
+Output for Prime: 
+
+----jGRASP exec: java Prime
+Enter the number of n: 11
+The nth prime number is: 31
+Execution Time(millisecs) is: 0
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Prime
+Enter the number of n: 101
+The nth prime number is: 547
+Execution Time(millisecs) is: 0
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Prime
+Enter the number of n: 1001
+The nth prime number is: 7927
+Execution Time(millisecs) is: 1
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Prime
+Enter the number of n: 10001
+The nth prime number is: 104743
+Execution Time(millisecs) is: 28
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Prime
+Enter the number of n: 100001
+The nth prime number is: 1299721
+Execution Time(millisecs) is: 700
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Prime
+Enter the number of n: 1000001
+The nth prime number is: 15485867
+Execution Time(millisecs) is: 19386
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Prime
+Enter the number of n: 10000001
+The nth prime number is: 179424691
+Execution Time(millisecs) is: 611267
+
+Output for CollatzSequence
+Please enter a num: 5
+Starting Number with longest Collatz Sequence between 1 and N(5): 3
+Length of the longest sequence: 8
+Execution Time(millisecs) is: 0
+
+Please enter a num: 100
+Starting Number with longest Collatz Sequence between 1 and N(100): 97
+Length of the longest sequence: 119
+Execution Time(millisecs) is: 0
+
+Please enter a num: 1000
+Starting Number with longest Collatz Sequence between 1 and N(1000): 871
+Length of the longest sequence: 179
+Execution Time(millisecs) is: 0
+
+Please enter a num: 10000
+Starting Number with longest Collatz Sequence between 1 and N(10000): 6171
+Length of the longest sequence: 262
+Execution Time(millisecs) is: 0
+
+Please enter a num: 100000
+Starting Number with longest Collatz Sequence between 1 and N(100000): 77031
+Length of the longest sequence: 351
+Execution Time(millisecs) is: 31
+
+Starting Number with longest Collatz Sequence between 1 and N(1000000): 837799
+Length of the longest sequence: 525
+Execution Time(millisecs) is: 406
+
+Starting Number with longest Collatz Sequence between 1 and N(10000000): 8400511
+Length of the longest sequence: 686
+Execution Time(millisecs) is: 4826
+
+Output for MatrixMult
+
+Enter the size of each matrix: 10
+Enter the matrix element	All elements of the matrices are assumed to be the same: 4
+Execution time: 0 millisecs
+
+Enter the size of each matrix: 100
+Enter the matrix element	All elements of the matrices are assumed to be the same: 4
+Execution time: 0 millisecs
+
+Enter the size of each matrix: 200
+Enter the matrix element	All elements of the matrices are assumed to be the same: 4
+Execution time: 31 millisecs
+
+Enter the size of each matrix: 300
+Enter the matrix element	All elements of the matrices are assumed to be the same: 4
+Execution time: 125 millisecs
+
+Enter the size of each matrix: 400
+Enter the matrix element	All elements of the matrices are assumed to be the same: 4
+Execution time: 250 millisecs
+
+Enter the size of each matrix: 500
+Enter the matrix element	All elements of the matrices are assumed to be the same: 4
+Execution time: 485 millisecs
+
+Enter the size of each matrix: 700
+Enter the matrix element	All elements of the matrices are assumed to be the same: 4
+Execution time: 2140 millisecs
+
+Enter the size of each matrix: 1000
+Enter the matrix element	All elements of the matrices are assumed to be the same: 4
+Execution time: 8845 millisecs
+
+Enter the size of each matrix: 1500
+Enter the matrix element	All elements of the matrices are assumed to be the same: 4
+Execution time: 33977 millisecs
+
+
+Enter the size of each matrix: 2000
+Enter the matrix element	All elements of the matrices are assumed to be the same: 4
+Execution time: 91394 millisecs
