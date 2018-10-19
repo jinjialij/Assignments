@@ -1,0 +1,366 @@
+PointTester output
+
+Please choose which type of Point you want to create: 1 for Integer type point; 2 for Double type Point,; 3 for String type point:1
+Please input value for Point xPos and Y pos:10 20
+The output is:XPOS: 10	YPOS: 20
+
+Please choose which type of Point you want to create: 1 for Integer type point; 2 for Double type Point,; 3 for String type point:1
+Please input value for Point xPos and Y pos:2 3
+The output is:XPOS: 2	YPOS: 3
+
+Please choose which type of Point you want to create: 1 for Integer type point; 2 for Double type Point,; 3 for String type point:1
+Please input value for Point xPos and Y pos:5 10
+The output is:XPOS: 5	YPOS: 10
+
+
+
+Please choose which type of Point you want to create: 1 for Integer type point; 2 for Double type Point,; 3 for String type point:2
+Please input value for Point xPos and Y pos:14.5 15.6
+The output is:XPOS: 14.5	YPOS: 15.6
+
+Please choose which type of Point you want to create: 1 for Integer type point; 2 for Double type Point,; 3 for String type point:2
+Please input value for Point xPos and Y pos:11.11 21.12
+The output is:XPOS: 11.11	YPOS: 21.12
+
+Please choose which type of Point you want to create: 1 for Integer type point; 2 for Double type Point,; 3 for String type point:2
+Please input value for Point xPos and Y pos:43.1 12.81
+The output is:XPOS: 43.1	YPOS: 12.81
+
+
+
+Please choose which type of Point you want to create: 1 for Integer type point; 2 for Double type Point,; 3 for String type point:3
+Please input value for Point xPos and Y pos:topleftx toplefty
+The output is:XPOS: topleftx	YPOS: toplefty
+
+Please choose which type of Point you want to create: 1 for Integer type point; 2 for Double type Point,; 3 for String type point:3
+Please input value for Point xPos and Y pos:hellox helloy
+The output is:XPOS: hellox	YPOS: helloy
+
+Please choose which type of Point you want to create: 1 for Integer type point; 2 for Double type Point,; 3 for String type point:3
+Please input value for Point xPos and Y pos:earth1 earth2
+The output is:XPOS: earth1	YPOS: earth2
+
+GenericStackDemo:
+
+For String Stack:
+Enter a word (quit to end): London
+Enter a word (quit to end): Paris
+Enter a word (quit to end): Halifax
+Enter a word (quit to end): quit
+
+For Integer Stack
+Enter a postive integer(-1 to end):100
+Enter a postive integer(-1 to end):200
+Enter a postive integer(-1 to end):300
+Enter a postive integer(-1 to end):400
+Enter a postive integer(-1 to end):-1
+String Stack Contents:
+Halifax
+Paris
+London
+
+Integer Stack Contents:
+400
+300
+200
+100
+
+
+
+
+For String Stack:
+Enter a word (quit to end): John
+Enter a word (quit to end): Mary
+Enter a word (quit to end): Leo
+Enter a word (quit to end): quit
+
+For Integer Stack
+Enter a postive integer(-1 to end):321
+Enter a postive integer(-1 to end):123
+Enter a postive integer(-1 to end):234
+Enter a postive integer(-1 to end):-1
+String Stack Contents:
+Leo
+Mary
+John
+
+Integer Stack Contents:
+234
+123
+321
+
+
+
+
+For String Stack:
+Enter a word (quit to end): china
+Enter a word (quit to end): USA
+Enter a word (quit to end): Canada
+Enter a word (quit to end): Japan
+Enter a word (quit to end): quit
+
+For Integer Stack
+Enter a postive integer(-1 to end):123
+Enter a postive integer(-1 to end):321
+Enter a postive integer(-1 to end):432
+Enter a postive integer(-1 to end):124
+Enter a postive integer(-1 to end):-1
+String Stack Contents:
+Japan
+Canada
+USA
+china
+
+Integer Stack Contents:
+124
+432
+321
+123
+
+----------------
+Exercise3
+
+Enter the filename to read from: F:\CSCI2110\lab3\src\file1.txt
+Crane
+Bones
+Pokemon
+Pokemon
+Dude
+Chaser
+Norris
+Dude
+
+Enter the filename to read from: F:\CSCI2110\lab3\src\file2.txt
+Shakespeare
+Dostoevsky
+Tolstoy
+Dickens
+Twain
+Tolkien
+
+Enter the filename to read from: F:\CSCI2110\lab3\src\file3.txt
+Jefferson
+LutherKing
+Washington
+Lincoln
+Roosevelt
+
+-------
+GenericQueue
+
+For String Queue:
+Enter a word (quit to end): London
+Enter a word (quit to end): Paris
+Enter a word (quit to end): Halifax
+Enter a word (quit to end): quit
+
+For Integer Queue:
+Enter a postive integer(-1 to end): 100
+Enter a postive integer(-1 to end):200
+Enter a postive integer(-1 to end):300
+Enter a postive integer(-1 to end):400
+Enter a postive integer(-1 to end):-1
+String Queue Contents:
+London
+Paris
+Halifax
+
+Integer Queue Contents:
+100
+200
+300
+400
+
+For String Queue:
+Enter a word (quit to end): apple
+Enter a word (quit to end): lemon
+Enter a word (quit to end): banana
+Enter a word (quit to end): quit
+
+For Integer Queue:
+Enter a postive integer(-1 to end): 12345
+Enter a postive integer(-1 to end):54321
+Enter a postive integer(-1 to end):76543
+Enter a postive integer(-1 to end):-1
+String Queue Contents:
+apple
+lemon
+banana
+
+Integer Queue Contents:
+12345
+54321
+76543
+
+
+For String Queue:
+Enter a word (quit to end): house
+Enter a word (quit to end): room
+Enter a word (quit to end): car
+Enter a word (quit to end): brush
+Enter a word (quit to end): quit
+
+For Integer Queue:
+Enter a postive integer(-1 to end): 999
+Enter a postive integer(-1 to end):222
+Enter a postive integer(-1 to end):333
+Enter a postive integer(-1 to end):-1
+String Queue Contents:
+house
+room
+car
+brush
+
+Integer Queue Contents:
+999
+222
+333
+
+------
+PrintQueueDemo
+
+Please input job information:
+Please input owner (enter q to end): swilliams
+Please input Job ID : 309
+Please input owner (enter q to end): ronaldinho
+Please input Job ID : 300
+Please input owner (enter q to end): marionjones
+Please input Job ID : 312
+Please input owner (enter q to end): swilliams
+Please input Job ID : 267
+Please input owner (enter q to end): davidh
+Please input Job ID : 135
+Please input owner (enter q to end): ronaldinho
+Please input Job ID : 301
+Please input owner (enter q to end): q
+
+Display all content: 
+swilliams	309
+ronaldinho	300
+marionjones	312
+swilliams	267
+davidh	135
+ronaldinho	301
+
+Please input a Job id and it will be deleted if it is in the first entry (enter -1 to quit): 309
+309 is removed successfully!
+
+Display all content: 
+ronaldinho	300
+marionjones	312
+swilliams	267
+davidh	135
+ronaldinho	301
+Please input a Job id and it will be deleted if it is in the first entry (enter -1 to quit): -1
+Please enter an job owner's name, it would be deleted entirely form the list(enter q to end): ronaldinho
+remove success
+
+Display all content: 
+marionjones	312
+swilliams	267
+davidh	135
+Please enter an job owner's name, it would be deleted entirely form the list(enter q to end): q
+
+
+
+
+
+Please input job information:
+Please input owner (enter q to end): abc
+Please input Job ID : 123
+Please input owner (enter q to end): abc
+Please input Job ID : 211
+Please input owner (enter q to end): tbc
+Please input Job ID : 311
+Please input owner (enter q to end): wer
+Please input Job ID : 431
+Please input owner (enter q to end): q
+
+Display all content: 
+abc	123
+abc	211
+tbc	311
+wer	431
+
+Please input a Job id and it will be deleted if it is in the first entry (enter -1 to quit): 211
+JobId doesn't match!
+
+Display all content: 
+abc	123
+abc	211
+tbc	311
+wer	431
+Please input a Job id and it will be deleted if it is in the first entry (enter -1 to quit): 123
+123 is removed successfully!
+
+Display all content: 
+abc	211
+tbc	311
+wer	431
+Please input a Job id and it will be deleted if it is in the first entry (enter -1 to quit): -1
+Please enter an job owner's name, it would be deleted entirely form the list(enter q to end): tbc
+remove success
+
+Display all content: 
+abc	211
+wer	431
+Please enter an job owner's name, it would be deleted entirely form the list(enter q to end): abc
+remove success
+
+Display all content: 
+wer	431
+Please enter an job owner's name, it would be deleted entirely form the list(enter q to end): q
+
+
+
+
+
+Please input job information:
+Please input owner (enter q to end): lemon
+Please input Job ID : 101
+Please input owner (enter q to end): lemon2
+Please input Job ID : 210
+Please input owner (enter q to end): apple
+Please input Job ID : 331
+Please input owner (enter q to end): apple
+Please input Job ID : 321
+Please input owner (enter q to end): apple
+Please input Job ID : 301
+Please input owner (enter q to end): q
+
+Display all content: 
+lemon	101
+lemon2	210
+apple	331
+apple	321
+apple	301
+
+Please input a Job id and it will be deleted if it is in the first entry (enter -1 to quit): 210
+JobId doesn't match!
+
+Display all content: 
+lemon	101
+lemon2	210
+apple	331
+apple	321
+apple	301
+Please input a Job id and it will be deleted if it is in the first entry (enter -1 to quit): 101
+101 is removed successfully!
+
+Display all content: 
+lemon2	210
+apple	331
+apple	321
+apple	301
+Please input a Job id and it will be deleted if it is in the first entry (enter -1 to quit): -1
+Please enter an job owner's name, it would be deleted entirely form the list(enter q to end): apple
+remove success
+
+Display all content: 
+lemon2	210
+Please enter an job owner's name, it would be deleted entirely form the list(enter q to end): q
+
+
+
+
+

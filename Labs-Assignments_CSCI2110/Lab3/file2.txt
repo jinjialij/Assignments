@@ -1,0 +1,6 @@
+William Shakespeare 6566
+Fyodor Dostoevsky 50851
+Leo Tolstoy 76543
+Charles Dickens 96421
+Mark Twain 122131
+J Tolkien 2351
