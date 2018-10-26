@@ -1,0 +1,12 @@
+Enter the filename to read from: F:\CSCI2110\A2\src\namelist1.txt
+Item Cyrstal already present
+Item Steven already present
+Item Steven already present
+Item Cyrstal already present
+[Cammie, Corie, Cyrstal, Dwayne, Felisa, Lawrence, Leana, Loren, Necole, Steven]
+Enter the filename to read from: F:\CSCI2110\A2\src\namelist2.txt
+Item Han already present
+Item Merlyn already present
+Item Allyson already present
+[Allyson, Beverlee, Chieko, Gerald, Han, Jerilyn, Merlyn, Nakita, Philip, Shameka]
+[Allyson, Beverlee, Cammie, Chieko, Corie, Cyrstal, Dwayne, Felisa, Gerald, Han, Jerilyn, Lawrence, Leana, Loren, Merlyn, Nakita, Necole, Philip, Shameka, Steven]

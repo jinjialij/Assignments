@@ -1,0 +1,5 @@
+Enter the filename to read from: F:\CSCI2110\A2\src\testname1.txt
+[Amar, Boris, Charlie, Dan, Fujian, Inder, Travis]
+Enter the filename to read from: F:\CSCI2110\A2\src\testname2.txt
+[Alex, Ben, Betty, Charlie, Dan, Pei, Travis, Zola , Zulu]
+[Alex, Amar, Ben, Betty, Boris, Charlie, Dan, Fujian, Inder, Pei, Travis, Zola , Zulu]
